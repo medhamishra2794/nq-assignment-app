@@ -1,0 +1,14 @@
+{
+    "Email": "ईमेल",
+    "Password": "पासवर्ड",
+    "Forgot Password?": "पासवर्ड भूल गए?",
+    "Language": "भाषा",
+    "Remember me": "मुझे याद करो",
+    "Log in": "लॉग इन करें",
+    "Copyright 2025 Noventiq | Powered by Noventiq": "कॉपीराइट 2025 Noventiq | Noventiq द्वारा संचालित",
+    "Email is required.": "ईमेल की जरूरत है।",
+    "Please enter a valid email address.": "कृपया एक मान्य ईमेल पता प्रविष्ट करें।",
+    "This email provider is not allowed.": "इस ईमेल प्रदाता की अनुमति नहीं है।",
+    "Password is required.":"पासवर्ड आवश्यक है।",
+    "Incorrect email or password. Please try again.":"ईमेल या पासवर्ड ग़लत है। कृपया पुनः प्रयास करें।"
+  }

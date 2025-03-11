@@ -1,0 +1,14 @@
+{
+    "Email":"Email",
+    "Password":"Password",
+    "Forgot Password?":"Forgot Password?",
+    "Language":"Language",
+    "Remember me":"Remember me",
+    "Log in":"Log in",
+    "Copyright 2025 Noventiq | Powered by Noventiq":"Copyright 2025 Noventiq | Powered by Noventiq",
+    "Email is required.":"Email is required.",
+    "Please enter a valid email address.":"Please enter a valid email address.",
+    "This email provider is not allowed.":"This email provider is not allowed.",
+    "Password is required.":"Password is required.",
+    "Incorrect email or password. Please try again.":"Incorrect email or password. Please try again."
+}

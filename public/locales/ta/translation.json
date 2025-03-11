@@ -1,0 +1,14 @@
+{
+    "Email": "மின்னஞ்சல்",
+    "Password": "கடவுச்சொல்",
+    "Forgot Password?": "கடவுச்சொல்லை மறந்துவிட்டீர்களா?",
+    "Language": "மொழி",
+    "Remember me": "என்னை நினைவில் கொள்ளுங்கள்",
+    "Log in": "உள்நுழைக",
+    "Copyright 2025 Noventiq | Powered by Noventiq": "பதிப்புரிமை 2025 நோவென்டிக்",
+    "Email is required.": "மின்னஞ்சல் தேவை.",
+    "Please enter a valid email address.": "சரியான மின்னஞ்சல் முகவரியை உள்ளிடவும்.",
+    "This email provider is not allowed.": "இந்த மின்னஞ்சல் வழங்குநர் அனுமதிக்கப்படவில்லை.",
+    "Password is required.": "கடவுச்சொல் தேவை.",
+    "Incorrect email or password. Please try again.": "தவறான மின்னஞ்சல் அல்லது கடவுச்சொல். "
+  }
